@@ -25,8 +25,7 @@
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 # GitHub Activity
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.34
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-T&layout=compact)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andromeda-T&theme=github_dark)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andromeda-T&theme=github_dark)
-
+![GitHub Activity Graph](https://github.com/Andromeda-T/Andromeda-T/blob/main/github-metrics.svg)
