@@ -24,9 +24,8 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Andromeda-T&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)
+# GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-T&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=Andromeda-T&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Andromeda-T's GitHub Streak](https://streak-stats.demolab.com?user=Andromeda-T&theme=default)](https://git.io/streak-stats)
+[![GitHub followers](https://img.shields.io/github/followers/Andromeda-T?label=Followers)](https://github.com/Andromeda-T?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/Andromeda-T?style=social)](https://github.com/Andromeda-T?tab=stars)
