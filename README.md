@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Radin
 
-<!--
-**Andromeda-T/Andromeda-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | JavaScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary
+Frontend developer with focus on JavaScript, UI performance and modern web stack.
+
+---
+
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-black?logo=javascript)
+![React](https://img.shields.io/badge/react-black?logo=react)
+![Next.js](https://img.shields.io/badge/next.js-black?logo=next.js)
+![Tailwind](https://img.shields.io/badge/tailwind-black?logo=tailwindcss)
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
