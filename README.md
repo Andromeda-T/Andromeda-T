@@ -23,9 +23,3 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-
-# GitHub Activity
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.34
-
-![GitHub Activity Graph](https://github.com/Andromeda-T/Andromeda-T/blob/main/github-metrics.svg)
