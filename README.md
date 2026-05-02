@@ -26,6 +26,7 @@
 
 # GitHub Activity
 
-[![Andromeda-T's GitHub Streak](https://streak-stats.demolab.com?user=Andromeda-T&theme=default)](https://git.io/streak-stats)
-[![GitHub followers](https://img.shields.io/github/followers/Andromeda-T?label=Followers)](https://github.com/Andromeda-T?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/Andromeda-T?style=social)](https://github.com/Andromeda-T?tab=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-T&layout=compact)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andromeda-T&theme=github_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andromeda-T&theme=github_dark)
+
