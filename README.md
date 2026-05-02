@@ -20,6 +20,8 @@ Frontend developer with focus on JavaScript, UI performance and modern web stack
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Andromeda-T&show_icons=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Andromeda-T&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Andromeda-T&show_icons=true&cache_seconds=60
+)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-T&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-T&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Andromeda-T&layout=compact&cache_seconds=60
+)
